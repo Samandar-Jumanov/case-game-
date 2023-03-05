@@ -19,6 +19,7 @@ export const ContactUs = () => {
 
   return (
     <form ref={form} onSubmit={sendEmail} className='inner' required>
+      {msg}
       <input type="text" name="user_name"  className='box name' required placeholder='name..'/>
       <input type="email" name="user_email" className='box email'required placeholder='email..' />
       <label>Message</label>

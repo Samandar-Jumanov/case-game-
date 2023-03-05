@@ -27,8 +27,8 @@ function App() {
     </>: 
      <>
   <img src={intialImage}  style={{width:'50%'}}/>
+  <h1>Secret case or money</h1>
    <h1>{price + '$'}</h1>
-         Or 
     <button onClick={()=>setGift(true)}>Gift</button>
    <button onClick={sendEmail}>Take money</button>
 

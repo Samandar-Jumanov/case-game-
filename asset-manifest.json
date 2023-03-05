@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Samandar-Jumanov/auth/static/css/main.b0a1aa50.css",
+    "main.js": "/Samandar-Jumanov/auth/static/js/main.3d2169ba.js",
+    "static/media/initial.webp": "/Samandar-Jumanov/auth/static/media/initial.eb9ee74ee4c0fb2b709f.webp",
+    "static/media/5.jpg": "/Samandar-Jumanov/auth/static/media/5.00e5474fecc97ad3ae6f.jpg",
+    "static/media/6.png": "/Samandar-Jumanov/auth/static/media/6.f8068b99aab5cd56f12f.png",
+    "index.html": "/Samandar-Jumanov/auth/index.html",
+    "main.b0a1aa50.css.map": "/Samandar-Jumanov/auth/static/css/main.b0a1aa50.css.map",
+    "main.3d2169ba.js.map": "/Samandar-Jumanov/auth/static/js/main.3d2169ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a1aa50.css",
+    "static/js/main.3d2169ba.js"
+  ]
+}
